@@ -23,7 +23,7 @@ if has("gui_running") && has("gui_macvim")
   let g:Powerline_symbols='fancy'
 endif
 
-let g:Powerline_colorscheme='solarized'
+let g:Powerline_colorscheme='solarized256'
 " lighter colors: let g:Powerline_colorscheme='solarized'
 " To reload: :PowerlineReloadColorscheme
 
