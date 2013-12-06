@@ -2,10 +2,8 @@
 ====
 ```bash
 $ cd ~
-$ git clone https://github.com/yeuem1vannam/.vim.git
+$ git clone https://github.com/ducthien1490/.vim.git
 $ cd .vim
 $ rake setup
 $ vim
 $ --> :BundleInstall
-```
-.vim on MAC mini
